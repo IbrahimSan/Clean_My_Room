@@ -19,5 +19,9 @@
 			"Name": "StaticMeshEditorModeling",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Mac",
+		"Windows"
 	]
 }
